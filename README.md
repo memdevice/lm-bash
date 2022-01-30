@@ -1,2 +1,0 @@
-# lm-bash
-bash config files (+aliases, +funtcions) + history config + standard home directories + ~/data/ (ex lm-data) + ~/sample/
